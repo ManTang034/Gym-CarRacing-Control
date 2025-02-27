@@ -11,7 +11,7 @@ The goal of this project is to implement a PID (Proportional-Integral-Derivative
 
 ## 1.Trajectory Masking
 
-- **Input: **RGB image of the environment(96*96)
+- **Input: ** RGB image of the environment(96*96)
 - **Output:** masks for left, middle, and right trajectories
 - **Steps:**
   - Define HSV color ranges for each trajectory:
@@ -33,7 +33,7 @@ The goal of this project is to implement a PID (Proportional-Integral-Derivative
 
 **Input:** target point, car position
 
-**Output:** error, angle
+**Output:** error, angle 
 $$
 error=target\_point-car\_position
 $$
@@ -48,7 +48,7 @@ $$
 
 - **Output:** Control actions
 
-- **Steps:**
+- **Steps:** 
   $$
   action\_steering=pid\_steering(angle)
   $$
