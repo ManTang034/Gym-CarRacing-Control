@@ -46,3 +46,6 @@ The goal of this project is to implement a PID (Proportional-Integral-Derivative
   - gas,brake=[0, pid(error_v)] if error_v < 0
 ------
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ManTang034/Gym-CarRacing-Control&type=Date)](https://star-history.com/#ManTang034/Gym-CarRacing-Control&Date)
