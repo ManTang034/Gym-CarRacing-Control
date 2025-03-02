@@ -1,6 +1,6 @@
 # Gym-CarRacing-Control
 **Objective:**
-The goal of this project is to implement a PID (Proportional-Integral-Derivative) controller to enable a car in the CarRacing environment from OpenAI's Gym library to follow a predefined path or track. 
+The goal of this project is to implement a PID controller or a MPC controller to enable a car in the CarRacing environment from OpenAI's Gym library to follow a predefined path or track. 
 
 |      |              left track              |               middle track               |              right track               |
 | :--: | :----------------------------------: | :--------------------------------------: | :------------------------------------: |
