@@ -49,6 +49,4 @@ The goal of this project is to implement a PID controller or a MPC controller to
 
 ## Star History
 
-## Star History
-
 [![Star History Chart](https://api.star-history.com/svg?repos=ManTang034/Gym-CarRacing-Control&type=Date)](https://star-history.com/#ManTang034/Gym-CarRacing-Control&Date)
