@@ -46,7 +46,3 @@ The goal of this project is to implement a PID controller or a MPC controller to
   - gas,brake=[pid(error_v), 0] if error_v > 0
   - gas,brake=[0, pid(error_v)] if error_v < 0
 ------
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=ManTang034/Gym-CarRacing-Control&type=Date)](https://star-history.com/#ManTang034/Gym-CarRacing-Control&Date)
